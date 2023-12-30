@@ -1,0 +1,4 @@
+1
+kaksi
+parametreja
+tulee
